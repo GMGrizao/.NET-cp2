@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyApp",
+    "\\MyApp\\MyApp.WebApi",
+    "\\MyApp\\MyApp.WebApi\\Properties"
+  ],
+  "SelectedNode": "\\MyApp\\MyApp.WebApi\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

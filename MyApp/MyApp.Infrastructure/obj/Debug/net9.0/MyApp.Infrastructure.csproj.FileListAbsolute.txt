@@ -1,0 +1,17 @@
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Infrastructure.deps.json
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Infrastructure.runtimeconfig.json
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Infrastructure.dll
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Infrastructure.pdb
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Domain.dll
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\bin\Debug\net9.0\MyApp.Domain.pdb
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.In.4513676F.Up2Date
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.dll
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\refint\MyApp.Infrastructure.dll
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.pdb
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\MyApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Micro\desktop\MyApp\MyApp\MyApp.Infrastructure\obj\Debug\net9.0\ref\MyApp.Infrastructure.dll

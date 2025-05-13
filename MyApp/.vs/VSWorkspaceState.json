@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyApp.Application",
+    "\\MyApp.Domain",
+    "\\MyApp.Infrastructure",
+    "\\MyApp.WebApi",
+    "\\MyApp.WebApi\\Controllers",
+    "\\MyApp.WebApi\\Properties"
+  ],
+  "SelectedNode": "\\MyApp.WebApi\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
